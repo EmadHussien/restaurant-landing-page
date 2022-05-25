@@ -12,7 +12,7 @@
 ##### Project Features: 
 1. Users can book a table at The restaurant by redirecting them to a third-party system.
 2. Users can see the whole menu of the restaurant with the prices and the food or drink categories.
-3. Users can purshase a gift card to another person by redirecting them to a third-party system.
+3. Users can purchase a gift card for another person by redirecting them to a third-party system.
 
 
 View optimal layout for different screen sizes.
