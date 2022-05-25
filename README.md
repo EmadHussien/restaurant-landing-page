@@ -2,12 +2,18 @@
 
 #### Project idea : A resturant landing page ...  'helps customers getting all information they need'
  
-UI Main Components : 
+##### UI Main Components : 
 1. Navbar
 2. Home
 3. About
 4. Menu
 5. Footer
+
+##### Project Features: 
+1. Users can book a table at The resturant by redirecting them to a third-party system.
+2. Users can see the whole menu of the resturant with the prices and the food or drink categories.
+3. Users can purshase a gift card to another person by redirecting them to a third-party system.
+
 
 View optimal layout for different screen sizes.
 
