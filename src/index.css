@@ -1,0 +1,115 @@
+body{
+    height: 100vh;
+}
+
+/* Navbar component Styling */
+.homeBtn{
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+/* home component styling */
+.home-container{
+    position: relative;
+        height: 639px;
+      overflow: hidden;
+  }
+
+.home-bg{
+    position: absolute;
+    height: inherit;
+    background-size: cover;
+    background-image: url('./images/Home-1-01.jpg');
+    top: 0;
+    z-index: -1;
+
+}
+
+/* Resturant menu styling */
+.resturant{
+    width:300px ;
+    height:275px;
+}
+em{
+    font-family: 'adobe-garamond-pro';
+}
+.reserve-request{
+    color: #c6b5d4;
+    font-size: 19px;
+    max-width: 640px;
+    line-height: 1.5rem;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+.about-text{
+    max-width: 645px;
+    margin-top: 20px;
+    font-family: 'adobe-garamond-pro';
+    font-size: 17px;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255,255,255,.7);
+}
+.dishName{
+    max-width: 645px;
+    margin-top: 20px;
+    font-family: 'adobe-garamond-pro';
+    font-size: 17px;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgba(255,255,255,.7);
+}
+.dishIngredients{
+    max-width: 645px;
+    font-family: 'adobe-garamond-pro';
+    font-size: 17px;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255,255,255,.7);
+}
+.horizontal-line{
+    border-style: none;
+    border-width: 0;
+    margin: 32px 0;
+    color: rgba(255,255,255,.15);
+    background-color: rgba(255,255,255,.15);
+    height: 2px;
+    width: 98%;
+}
+.resturant-hall-bg{
+    width: 100%;
+    height: 520px;
+    object-fit: cover;
+    object-position: 0% 50%;
+}
+
+/* Reservations styling */
+.reservations-bg{
+    background-image: url('./images/banner01-01.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 585px;
+    background-position: 50% 0%;
+  
+}
+
+.title{
+   font-size: 19px;
+   letter-spacing: 4px;    
+}
+.note{
+    font-family: "adobe-garamond-pro";
+    line-height: 1.5em;
+    letter-spacing: 1px;
+    margin: 20px auto;
+}
+
